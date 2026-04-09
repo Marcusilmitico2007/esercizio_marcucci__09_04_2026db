@@ -1,0 +1,6 @@
+# IDEs
+.vscode/
+.idea/
+
+# PHP Composer
+vendor/
